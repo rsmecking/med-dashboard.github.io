@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Medium Articles:
     - Runout on Approach: "https://medium.com/@rsmecking/runout-on-approach-9c359e2a73b5"
+    - K-means clustering from scratch: "https://medium.com/@rsmecking/k-means-clustering-from-scratch-5bf42bf3be9e"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
   Github: "https://github.com/rsmecking"
 
