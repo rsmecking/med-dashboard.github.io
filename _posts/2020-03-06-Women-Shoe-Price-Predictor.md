@@ -2,7 +2,7 @@
 layout: post
 title: Women Shoe Price Prediction
 gh-repo: https://github.com/rsmecking/Predicting_women_shoe_prices
-gh-badge: [star, fork, follow]
+# gh-badge: [star, fork, follow]
 comments: true
 ---
 🦶My passion for shoes is lackluster at best. I couldn't tell you shoe prices if my life depended on it.
