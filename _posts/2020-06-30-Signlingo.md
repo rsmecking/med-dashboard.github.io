@@ -11,6 +11,7 @@ Social Value = ✔️
 Amazon Web Services = ✔️
 Flask/API = ✔️
 Object Detection = ✔️
+Extensive Data Collection = ✔️
 Outstanding Teamwork = ✔️
 
 [Here is a link to the Website](https://www.thesignlingo.com/)
