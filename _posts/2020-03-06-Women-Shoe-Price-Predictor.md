@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Women Shoe Price Prediction
-gh-repo: daattali/beautiful-jekyll
+gh-repo: https://github.com/rsmecking/Predicting_women_shoe_prices
 gh-badge: [star, fork, follow]
 comments: true
 ---
