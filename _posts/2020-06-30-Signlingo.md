@@ -7,11 +7,12 @@ comments: true
 ---
 Let's talk about this Project! 
 
-- Social Value = ✔️
-- Amazon Web Services = ✔️
 - Flask/API = ✔️
+- Social Value = ✔️
+- Neural Network = ✔️
 - Object Detection = ✔️
-- Extensive Data Collection = ✔️
+- Amazon Web Services = ✔️
 - Outstanding Teamwork = ✔️
+- Extensive Data Collection = ✔️
 
 [Here is a link to the Website](https://www.thesignlingo.com/)
