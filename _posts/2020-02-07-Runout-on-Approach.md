@@ -2,7 +2,7 @@
 layout: post
 title: Runout on Approach
 gh-repo: https://github.com/rsmecking/Age-to-Performance-Project-Rock-Climbing-
-gh-badge: [star, fork, follow]
+# gh-badge: [star, fork, follow]
 comments: true
 ---
 
